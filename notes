@@ -1,0 +1,18 @@
+bayesian versus frequentist
+make a test for your analysis
+	model selection
+	cross validation
+
+what dataset to use
+where did you get it, sources
+some basic descriptions of your dataset
+what are the information included in your dataset
+what you plan to do with your dataset
+
+
+how to find a prior and make it a Bayesian inference?
+logistic regression?
+finding something that is normally distributed, and compare between D and R
+	we can do tests on this to test the distribution
+
+Or I can do more prediction models instead of the frequentist versus Bayesian
